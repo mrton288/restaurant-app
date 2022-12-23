@@ -1,6 +1,6 @@
 # Mini Project: Restaurant-app
 
-Link web: 
+Link web: https://restaurant-app-ad2f2.firebaseapp.com/
 
 # Công nghệ
 
