@@ -33,5 +33,3 @@ Link web: https://restaurant-app-ad2f2.firebaseapp.com/
 + Sale
 
 ![image](https://user-images.githubusercontent.com/72378684/209175776-bc5833ed-2f99-4b2f-abce-4711b3b28b18.png)
-
-### Nguồn tham khảo: https://youtu.be/kmU7uX3ZHJc
